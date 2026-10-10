@@ -1,0 +1,17 @@
+# @three-ws/agent
+
+> Run a three.ws agent on your own machine or VPS: a terminal UI with slash commands, streaming tool output, local file and shell tools in a resource-limited sandbox, the three.ws MCP tools and agent wallet, SQLite sessions with full-text search, parallel subagents, natural-language cron, and a Telegram gateway.
+
+- Repository: https://github.com/nirholas/three-ws-agent-cli
+- Documentation: https://nirholas.github.io/three-ws-agent-cli/
+- npm: https://www.npmjs.com/package/@three-ws/agent
+- License: Apache-2.0
+- Part of three.ws: https://three.ws
+
+## Docs
+
+- [README](https://github.com/nirholas/three-ws-agent-cli/blob/main/README.md): install, usage and full API reference
+- [Full text for LLMs](https://nirholas.github.io/three-ws-agent-cli/llms-full.txt): the entire README as plain text
+- [AGENTS.md](https://github.com/nirholas/three-ws-agent-cli/blob/main/AGENTS.md): conventions for coding agents
+- [Security policy](https://github.com/nirholas/three-ws-agent-cli/blob/main/SECURITY.md)
+- [Contributing](https://github.com/nirholas/three-ws-agent-cli/blob/main/CONTRIBUTING.md)
